@@ -1,0 +1,27 @@
+.topbar {
+    background: #B6B6B6;
+    background-color: #d0d0d0 0px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#d0d0d0 0px), to(#B6B6B6 100%));
+    background-image: -webkit-linear-gradient(top, #ec874b 0px, #a94c15 100%);
+    background-image: -moz-linear-gradient(top, #d0d0d0 0px, #B6B6B6 100%);
+    background-image: -ms-linear-gradient(top, #d0d0d0 0px, #B6B6B6 100%);
+    background-image: -o-linear-gradient(top, #d0d0d0 0px, #B6B6B6 100%);
+    background-image: linear-gradient(top, #d0d0d0 0px, #B6B6B6 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#d0d0d0 0px', endColorStr='#B6B6B6 100%');
+}
+.container .topbar-tools-inst h4{
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff!important;
+    text-shadow: 1px 1px 1px #451e08;
+}
+
+
+/*font-weight: bold;
+    font-size: 20px;
+    background-color: #742f06;
+    color: transparent;
+    text-shadow: 0px 2px 3px rgb(225, 131, 75);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;*/
